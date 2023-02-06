@@ -1,17 +1,17 @@
-#Thiago Vale
+# Thiago Vale
 Thiago, Brazil. Studying Fullstack development.
 
-##Skills
+## Skills
 HTML, CSS, JS, Node, Git.
 
-##Projects
+## Projects
 https://github.com/thiagovale?tab=repositories
 
-##Work Experience
+## Work Experience
 2023 - IT Analyst at a local fashion wholesale company.
 
-##Education
+## Education
 Computer Engineering student at UFC.
 
-##Contact
+## Contact
 thiagopvale@hotmail.com
