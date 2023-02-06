@@ -6,7 +6,7 @@ I like sportbikes, music and travelling.
 HTML, CSS, JS, Node, Git.
 
 ## Projects
-https://github.com/thiagovale?tab=repositories
+https://github.com/thiagovale/project-basic-informational-site
 
 ## Work Experience
 2023 - IT Analyst at a local fashion wholesale company.
