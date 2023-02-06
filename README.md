@@ -1,5 +1,5 @@
 # Thiago Vale
-Thiago, Brazil. Studying Fullstack development.
+Thiago, Brazil. Learning fullstack development.
 
 ## Skills
 HTML, CSS, JS, Node, Git.
