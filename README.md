@@ -1,12 +1,12 @@
 # Thiago Vale
-Brazil. Learning fullstack development.
+Mobile developer.
 I like sportbikes, music and travelling.
 
 ## Skills
-HTML, CSS, JS, Node, Express, Git.
+HTML, CSS, JS, Node, Express, Git, React, React Native.
 
 ## Projects
-https://github.com/thiagovale/project-basic-informational-site
+https://github.com/thiagovale/teslaapp
 
 ## Work Experience
  - IT Analyst at a local medical clinic.
