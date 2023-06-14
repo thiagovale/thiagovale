@@ -1,9 +1,9 @@
 # Thiago Vale
-Mobile developer.
+Developer.
 I like sportbikes, music and travelling.
 
 ## Skills
-HTML, CSS, JS, Node, Express, Git, React, React Native.
+HTML, CSS, JS, Node, Express, Git, React, React Native, Flutter.
 
 ## Projects
 https://github.com/thiagovale/teslaapp
