@@ -1,22 +1,14 @@
 # Thiago Vale
-Developer.
-I like sportbikes, music and travelling.
+Developer
+Computer engineering student
+I have studied algorithms, data structures, operational systems, networks, software architectures, computational inteligence
+Currently working with web development
 
 ## Skills
-HTML, CSS, JS, Node, Express, Git, React, React Native, Flutter.
+HTML, CSS, JS, React, Flutter, Angular
 
-## Projects
-https://github.com/thiagovale/teslaapp
-
-## Work Experience
- - IT Analyst at a local medical clinic.
-   2022 ~ 2022
- - IT Analyst at a local fashion wholesale company.
-   2022 ~ now
-
-## Education
-- Computer Engineering student at UFC.
-  2019 ~ now
+## Tools
+Git, Docker
 
 ## Contact
 thiagopvale@hotmail.com
