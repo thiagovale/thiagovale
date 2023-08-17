@@ -1,11 +1,10 @@
 # Thiago Vale
 Developer\
 Computer engineering student\
-I have studied algorithms, data structures, operational systems, networks, software architectures, computational inteligence\
 Currently working with web development
 
 ## Skills
-HTML, CSS, TypeScript, React, Flutter, Angular
+HTML, CSS, TypeScript, React, Flutter, Angular, Node, SQL, noSQL
 
 ## Tools
 Git, Docker
