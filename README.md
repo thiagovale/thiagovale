@@ -4,7 +4,7 @@ Computer engineering student\
 Currently working with web development
 
 ## Skills
-HTML, CSS, TypeScript, React, Flutter, Angular, Node, SQL, noSQL
+React, Angular, Node, Typescript, Javascript, SQL, noSQL
 
 ## Tools
 Git, Docker
